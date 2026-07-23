@@ -1,9 +1,9 @@
 # World Recipe Collection — Cloud Server Project
 
-**Student Number:** [Your student number]
-**Name:** Nice
-**Live site:** http://yourdomain.com (update once DNS is configured)
-**Global IP address:** [Your EC2 public IP]
+**Student Number:** 35792964
+**Name:** Varshini Murali
+**Live site:** https://nicerecipes.duckdns.org/
+**Global IP address:** 16.192.57.110 
 **GitHub repository:** [Link to this repo]
 **Video explainer:** [Link once recorded]
 
