@@ -5,7 +5,7 @@
 **Live site:** https://nicerecipes.duckdns.org  
 **Global IP address:** 16.192.57.110  
 **GitHub repository:** https://github.com/varshinim11111/ict171-cloud-server-project  
-**Video explainer:** [YOUR VIDEO LINK — add after recording]  
+**Video explainer:** Done in ECHO360 
 
 ---
 
