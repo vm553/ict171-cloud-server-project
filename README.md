@@ -1,7 +1,7 @@
 # World Recipe Collection — Cloud Server Project
 
 **Student Number:** 35792964  
-**Name:** [YOUR NAME]  
+**Name:** Varshini Murali   
 **Live site:** https://nicerecipes.duckdns.org  
 **Global IP address:** 16.192.57.110  
 **GitHub repository:** https://github.com/varshinim11111/ict171-cloud-server-project  
